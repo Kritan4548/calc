@@ -1,4 +1,4 @@
 #This is for subtraction
-def sub(a,b)
+def sub(a,b):
     return a-b
      
