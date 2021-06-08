@@ -1,4 +1,2 @@
 #This is for subtraction
-def sub(a,b):
-    return a-b
-     
+diff = lambda a, b: a-b
