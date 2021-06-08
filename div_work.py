@@ -1,4 +1,2 @@
 #This is for division
-def div(a,b):
-    return a/b
-     
+division = lambda a, b: a/b
