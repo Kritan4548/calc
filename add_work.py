@@ -1,4 +1,1 @@
-#This is for addition
-def add(a,b):
-    return a+b
-     
+sum = lambda : a, b : a + b
