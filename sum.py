@@ -1,1 +1,1 @@
-sum = lambda : a, b : a + b
+sum = lambda a, b : a + b

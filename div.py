@@ -1,1 +1,1 @@
-division = lambda a, b: a/b
+div = lambda a, b: a/b
